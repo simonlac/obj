@@ -1,0 +1,7 @@
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\bin\Debug\Exemple_cours.exe.config
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\bin\Debug\Exemple_cours.exe
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\bin\Debug\Exemple_cours.pdb
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\obj\Debug\Exemple_cours.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\obj\Debug\Exemple_cours.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\obj\Debug\Exemple_cours.exe
+C:\Users\18196\source\repos\Classes_Objets\Exemple_cours\obj\Debug\Exemple_cours.pdb
